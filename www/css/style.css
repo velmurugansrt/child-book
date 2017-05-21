@@ -1,0 +1,44 @@
+/* Empty. Add your own CSS if you like */
+.title{
+	text-align: center;
+}
+ul{
+}
+li{
+	line-height:40px; 
+	padding:0px 0px !important;
+	background-color: #efecea !important;
+
+}
+a{
+	text-decoration: none;
+}
+li img{
+	height:80px !important;
+	width:80px !important;
+	float: left;
+}
+.list-item p{
+
+	color: #002561  !important;
+	padding-left: 10px;
+}
+.item-body p{
+	text-align: justify !important;
+}
+
+h2{
+	padding-top: 10px;
+	padding-left: 10px;
+	color: #d5641c  !important;
+}
+
+.bc{
+	color:#093075 !important;
+}
+
+.slidebg{
+	background-color: red;
+	height: 50px;
+	
+}
